@@ -1,6 +1,6 @@
 #include <stdio.h> 
 int main() { 
-int marks[] = {78, 99, 55, 100, 39}; 
+int marks[] = {75, 88, 60, 65, 75}; 
 int n = 5; 
 int max = marks[0], min = marks[0]; 
 for (int i = 1; i < n; i++) { 
