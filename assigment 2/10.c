@@ -1,6 +1,6 @@
 #include <stdio.h> 
 int main() { 
-int arr[] = {11, 14, 17, 20, 23}; 
+int arr[] = {11, 7, 3, 2, 23}; 
 int size = 5; 
 int count = 0; 
 for (int i = 0; i < size; i++) { 
